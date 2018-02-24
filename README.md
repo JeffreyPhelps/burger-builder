@@ -1,6 +1,6 @@
 # Eat the Burger!
 
-Created during Week 14 of Rutgers Coding Bootcamp. The goal was to create a Burger App using Node Express Handlebars and an ORM. It uses the MVC design pattern, Node and MySQL to query and route data to the app and Handlebars to generate the HTML.
+Created during mod-14 of the DU web dev bootcap 2017/2018. Thsi app uses Node, Express, Handlebars, and an ORM. It uses the MVC design pattern, Node and MySQL to query and route data to the app, and Handlebars to generate the HTML.
 
 ## Getting Started
 https://burger-builder-5000.herokuapp.com/
