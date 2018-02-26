@@ -1,6 +1,6 @@
 # Eat the Burger!
 
-This app was created during mod-14 of the DU web dev bootcap 2017/2018. Thsi app uses Node, Express, Handlebars, and an ORM. It uses the MVC design pattern, Node and MySQL to query and route data to the app, and Handlebars to generate the HTML.
+This app was created during mod-14 of the DU web dev bootcap 2017/2018. It was built with Node, Express, Handlebars, and an ORM. It uses the MVC design pattern, Node and MySQL to query and route data to the app, and Handlebars to generate the HTML.
 
 ## Getting Started
 https://burger-builder-5000.herokuapp.com/
