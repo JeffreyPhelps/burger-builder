@@ -7,13 +7,13 @@ https://burger-builder-5000.herokuapp.com/
 
 ## Screen Shots
 
-![Screen shot](public/assets/images/Index.png)
+![Screen shot](public/assets/images/index.png)
 Index Page
 
-![Screen shot2](public/assets/images/Form.png)
+![Screen shot2](public/assets/images/form.png)
 Form to create new burgers or sides to 'devour' from drop down menus
 
-![Screen shot3](public/assets/images/Menu.png)
+![Screen shot3](public/assets/images/menu.png)
 Menu Page - Displays all available Burgers and Sides
 
 ## Technologies used
