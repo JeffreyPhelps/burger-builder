@@ -1,9 +1,9 @@
 // Jeffrey Phelps - DU Web Dev Bootcamp 2017/2018 - Mod 14 Homework (Burger Builder)
 
 var mysql = require('mysql');
-var connection;
 
-if(process.env.JAWSDB_URL){
+var connection;
+if(process.env.JAWSDB_URL) {
   connection = mysql.createConnection(process.env.JAWSDB_URL);
 } else{
   connection = mysql.createConnection({
